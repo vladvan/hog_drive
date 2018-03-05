@@ -1,6 +1,6 @@
 # Hog Drive
 
-**Hemi-spherical Omni-Directional Gimbal Drive**
+**Hemi-spherical Omni-directional Gimbal-drive**
 
 This repository contains the cad models, bill of materials, stl files and all of files/instructions to add an FRC legal "Hog Drive" to your robot. The Hog drive is innovative and compact, and features a continous variable transmission with super nimble movement.
 
