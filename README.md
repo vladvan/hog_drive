@@ -8,9 +8,9 @@ As the design evolves, please check back for more information. At this point, th
 
 Please look at [VIEWME](VIEWME.stl) file to see the outer shell of the Hog drive. It gives you a arough idea of what the Hog drive looks like, and how it is meant to work. The outer "sphere" is roughly 8 inches in diameter and the lower part spinas arouns and makes contact with the ground.
 
-Of course the are many more pieces to this design, so take a look at the [hog_drive_cad.fcstd](hog_drive_cad.fcstd) file using FreeCAD to see the design in its entirety. 
+Of course the are many more pieces to this design, so take a look at the [CAD Model](hog_drive_cad.fcstd) file using FreeCAD to see the design in its entirety. 
 
-The [bill of materials](hog_drive_bom.ods) is a work in progress, and created in LibreOffice.
+The [bill of materials](hog_drive_bom.ods) is a work in progress, and created in LibreOffice. It only includes that parts that you can currently purchase. The rest has to be manufactured.
 
 Please note: I will not export the FreeCAD design to any other CAD program. It offends my sensibilites.
 
